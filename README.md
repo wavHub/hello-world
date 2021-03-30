@@ -1,2 +1,11 @@
 # hello-world
-This repository can be a place where you store ideas, resources, or even share and discuss things with others.
+
+Note to Self,
+
+1. One thousand small steps forward.  
+2. Find a source for tools. 
+3. Understand the tools.
+4. Keep the tool options small until you have mastered the tools.
+
+:grimacing:
+
